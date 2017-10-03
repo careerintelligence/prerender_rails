@@ -12,7 +12,6 @@ module Rack
         # 'yahoo',
         # 'bingbot',
         'baiduspider',
-        'facebookexternalhit',
         'twitterbot',
         'rogerbot',
         'linkedinbot',

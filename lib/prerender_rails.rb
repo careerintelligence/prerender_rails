@@ -12,7 +12,6 @@ module Rack
         # 'yahoo',
         # 'bingbot',
         'baiduspider',
-        'twitterbot',
         'rogerbot',
         'linkedinbot',
         'embedly',
